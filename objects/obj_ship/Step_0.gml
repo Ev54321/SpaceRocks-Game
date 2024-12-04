@@ -7,7 +7,7 @@ if(keyboard_check(vk_right)){
 }
 
 if(keyboard_check(vk_up)){
-	motion_add(image_angle, 0.05);
+	motion_add(image_angle, 0.02);
 }
 
 move_wrap(true,true,sprite_width/2);
