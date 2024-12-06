@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_asteroid","order":1,"path":"objects/obj_asteroid/obj_asteroid.yy",},
+    {"name":"obj_bullet","order":2,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"obj_debree","order":3,"path":"objects/obj_debree/obj_debree.yy",},
+    {"name":"spr_asteroid_big","order":3,"path":"sprites/spr_asteroid_big/spr_asteroid_big.yy",},
+    {"name":"spr_asteroid_med","order":2,"path":"sprites/spr_asteroid_med/spr_asteroid_med.yy",},
+    {"name":"spr_asteroid_small","order":1,"path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},
+    {"name":"spr_bullet","order":5,"path":"sprites/spr_bullet/spr_bullet.yy",},
+    {"name":"spr_debree","order":6,"path":"sprites/spr_debree/spr_debree.yy",},
+  ],
+}
