@@ -13,14 +13,14 @@ switch(room){
 		);
 		draw_text(
 			room_width/2, 200,
-			@"Score 1,000 points to win!
-			
-			UP: move
-			LEFT/RIGHT: change direction
-			SPACE: shoot
-			
-			>> PRESS ENTER TO START <<
-			"
+@"Score 1,000 points to win!
+
+UP: move
+LEFT/RIGHT: change direction
+SPACE: shoot
+
+>> PRESS ENTER TO START <<
+"
 		);
 		draw_set_halign(fa_left);
 		break;
