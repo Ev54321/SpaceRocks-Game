@@ -27,7 +27,7 @@ SPACE: shoot
 		
 	case rm_win:
 		draw_set_halign(fa_center);
-		var c = c_yellow;
+		var _c = c_yellow;
 		draw_text_transformed_color(
 			room_width/2, 200, "YOU WON!",
 			3, 3, 0, _c, _c, _c, _c, 1
@@ -41,7 +41,7 @@ SPACE: shoot
 		
 	case rm_gameover:
 	draw_set_halign(fa_center);
-		var c = c_yellow;
+		var _c = c_yellow;
 		draw_text_transformed_color(
 			room_width/2, 150, "GAME OVER",
 			3, 3, 0, _c, _c, _c, _c, 1
