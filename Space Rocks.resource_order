@@ -18,5 +18,7 @@
     {"name":"spr_asteroid_small","order":1,"path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},
     {"name":"spr_bullet","order":5,"path":"sprites/spr_bullet/spr_bullet.yy",},
     {"name":"spr_debree","order":6,"path":"sprites/spr_debree/spr_debree.yy",},
+    {"name":"spr_power_strip","order":9,"path":"sprites/spr_power_strip/spr_power_strip.yy",},
+    {"name":"spr_Ship","order":7,"path":"sprites/spr_Ship/spr_Ship.yy",},
   ],
 }

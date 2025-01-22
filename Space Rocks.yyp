@@ -54,6 +54,7 @@
     {"id":{"name":"spr_asteroid_small","path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_debree","path":"sprites/spr_debree/spr_debree.yy",},},
+    {"id":{"name":"spr_power_strip","path":"sprites/spr_power_strip/spr_power_strip.yy",},},
     {"id":{"name":"spr_Ship","path":"sprites/spr_Ship/spr_Ship.yy",},},
   ],
   "resourceType":"GMProject",
